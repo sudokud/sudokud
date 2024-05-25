@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+### I'm a self taught web developer based in Algeria!
+check [chetoui.dev](https://chetoui.dev) fro more infos
 <!--
 **sudokud/sudokud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
